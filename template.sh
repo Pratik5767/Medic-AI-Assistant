@@ -12,6 +12,7 @@ touch src/helper.py
 touch src/prompt.py
 touch .env
 touch app.py
+touch setup.py
 touch research/trails.ipynb
 touch requirements.txt
 
